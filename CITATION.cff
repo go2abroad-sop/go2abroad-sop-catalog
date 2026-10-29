@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it using the metadata below."
+title: "GO2ABROAD Global Industrial SOP Open Catalog"
+authors:
+  - name: "GO2ABROAD Industrial Intelligence Group"
+doi: "10.5281/zenodo.23767285"
+url: "https://sop.go2abroad.space"
+repository-code: "https://github.com/go2abroad/sop-catalog"
+license: Apache-2.0
+type: dataset
+keywords:
+  - SOP
+  - industrial compliance
+  - ISIC
+  - ISO
+  - multilingual
+  - engineering tolerances
+abstract: >
+  Open multilingual index of verified industrial standard operating procedures.
+  Every record includes an introduction and independent detail-page URLs in 11 languages,
+  with DOI-backed citation for discovery and backlinking.

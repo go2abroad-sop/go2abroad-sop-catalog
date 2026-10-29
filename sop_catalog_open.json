@@ -1,0 +1,483 @@
+{
+  "generator": "GO2ABROAD SOP Multilingual GitHub Builder 2.0",
+  "doi": "10.5281/zenodo.23767285",
+  "doi_url": "https://doi.org/10.5281/zenodo.23767285",
+  "zenodo_badge": "https://zenodo.org/badge/1438476437.svg",
+  "base_url": "https://sop.go2abroad.space",
+  "languages": [
+    "en",
+    "zh",
+    "de",
+    "ja",
+    "fr",
+    "es",
+    "pt",
+    "it",
+    "ko",
+    "ar",
+    "hi"
+  ],
+  "url_template": "https://sop.go2abroad.space/{lang}/sop/{sop_id}.html",
+  "total_count": 143727,
+  "exported_records": 143726,
+  "jurisdictions_count": 73,
+  "industries_count": 417,
+  "record_schema": [
+    "sop_id",
+    "country",
+    "industry_isic",
+    "track",
+    "role",
+    "scenario",
+    "intro",
+    "tolerance",
+    "standards",
+    "urls"
+  ],
+  "shards": [
+    {
+      "country": "AFG",
+      "path": "catalog/records/AFG.jsonl",
+      "count": 1345,
+      "bytes": 2347517
+    },
+    {
+      "country": "AGO",
+      "path": "catalog/records/AGO.jsonl",
+      "count": 1967,
+      "bytes": 3395859
+    },
+    {
+      "country": "ALB",
+      "path": "catalog/records/ALB.jsonl",
+      "count": 1847,
+      "bytes": 3152888
+    },
+    {
+      "country": "AND",
+      "path": "catalog/records/AND.jsonl",
+      "count": 1021,
+      "bytes": 1758676
+    },
+    {
+      "country": "ARE",
+      "path": "catalog/records/ARE.jsonl",
+      "count": 2046,
+      "bytes": 3588757
+    },
+    {
+      "country": "ARG",
+      "path": "catalog/records/ARG.jsonl",
+      "count": 2153,
+      "bytes": 3683530
+    },
+    {
+      "country": "ARM",
+      "path": "catalog/records/ARM.jsonl",
+      "count": 2025,
+      "bytes": 3481950
+    },
+    {
+      "country": "ATG",
+      "path": "catalog/records/ATG.jsonl",
+      "count": 1445,
+      "bytes": 2508179
+    },
+    {
+      "country": "AUS",
+      "path": "catalog/records/AUS.jsonl",
+      "count": 2262,
+      "bytes": 3881376
+    },
+    {
+      "country": "AUT",
+      "path": "catalog/records/AUT.jsonl",
+      "count": 2148,
+      "bytes": 3680084
+    },
+    {
+      "country": "AZE",
+      "path": "catalog/records/AZE.jsonl",
+      "count": 2080,
+      "bytes": 3561906
+    },
+    {
+      "country": "BEL",
+      "path": "catalog/records/BEL.jsonl",
+      "count": 2100,
+      "bytes": 3608535
+    },
+    {
+      "country": "BEN",
+      "path": "catalog/records/BEN.jsonl",
+      "count": 820,
+      "bytes": 1413099
+    },
+    {
+      "country": "BGD",
+      "path": "catalog/records/BGD.jsonl",
+      "count": 1794,
+      "bytes": 3104235
+    },
+    {
+      "country": "BGR",
+      "path": "catalog/records/BGR.jsonl",
+      "count": 280,
+      "bytes": 475394
+    },
+    {
+      "country": "BHR",
+      "path": "catalog/records/BHR.jsonl",
+      "count": 1717,
+      "bytes": 2969799
+    },
+    {
+      "country": "BHS",
+      "path": "catalog/records/BHS.jsonl",
+      "count": 1290,
+      "bytes": 2249288
+    },
+    {
+      "country": "BIH",
+      "path": "catalog/records/BIH.jsonl",
+      "count": 2145,
+      "bytes": 3720716
+    },
+    {
+      "country": "BLR",
+      "path": "catalog/records/BLR.jsonl",
+      "count": 2125,
+      "bytes": 3616337
+    },
+    {
+      "country": "BLZ",
+      "path": "catalog/records/BLZ.jsonl",
+      "count": 1746,
+      "bytes": 3024641
+    },
+    {
+      "country": "BOL",
+      "path": "catalog/records/BOL.jsonl",
+      "count": 1789,
+      "bytes": 3131928
+    },
+    {
+      "country": "BRA",
+      "path": "catalog/records/BRA.jsonl",
+      "count": 2351,
+      "bytes": 4154480
+    },
+    {
+      "country": "BRB",
+      "path": "catalog/records/BRB.jsonl",
+      "count": 1669,
+      "bytes": 2880586
+    },
+    {
+      "country": "BRN",
+      "path": "catalog/records/BRN.jsonl",
+      "count": 1384,
+      "bytes": 2448872
+    },
+    {
+      "country": "BTN",
+      "path": "catalog/records/BTN.jsonl",
+      "count": 1177,
+      "bytes": 2047015
+    },
+    {
+      "country": "BWA",
+      "path": "catalog/records/BWA.jsonl",
+      "count": 1766,
+      "bytes": 3075177
+    },
+    {
+      "country": "CAN",
+      "path": "catalog/records/CAN.jsonl",
+      "count": 2310,
+      "bytes": 4167395
+    },
+    {
+      "country": "CHE",
+      "path": "catalog/records/CHE.jsonl",
+      "count": 2058,
+      "bytes": 3571922
+    },
+    {
+      "country": "CHL",
+      "path": "catalog/records/CHL.jsonl",
+      "count": 2214,
+      "bytes": 3853954
+    },
+    {
+      "country": "CHN",
+      "path": "catalog/records/CHN.jsonl",
+      "count": 2418,
+      "bytes": 4191072
+    },
+    {
+      "country": "CZE",
+      "path": "catalog/records/CZE.jsonl",
+      "count": 2202,
+      "bytes": 3814466
+    },
+    {
+      "country": "DEU",
+      "path": "catalog/records/DEU.jsonl",
+      "count": 2190,
+      "bytes": 3838905
+    },
+    {
+      "country": "DNK",
+      "path": "catalog/records/DNK.jsonl",
+      "count": 2112,
+      "bytes": 3668345
+    },
+    {
+      "country": "DZA",
+      "path": "catalog/records/DZA.jsonl",
+      "count": 2174,
+      "bytes": 3722016
+    },
+    {
+      "country": "EGY",
+      "path": "catalog/records/EGY.jsonl",
+      "count": 2208,
+      "bytes": 3834424
+    },
+    {
+      "country": "ESP",
+      "path": "catalog/records/ESP.jsonl",
+      "count": 2316,
+      "bytes": 4010476
+    },
+    {
+      "country": "FIN",
+      "path": "catalog/records/FIN.jsonl",
+      "count": 2088,
+      "bytes": 3656305
+    },
+    {
+      "country": "FRA",
+      "path": "catalog/records/FRA.jsonl",
+      "count": 2327,
+      "bytes": 4067231
+    },
+    {
+      "country": "GBR",
+      "path": "catalog/records/GBR.jsonl",
+      "count": 2202,
+      "bytes": 3824180
+    },
+    {
+      "country": "GRC",
+      "path": "catalog/records/GRC.jsonl",
+      "count": 2148,
+      "bytes": 3728170
+    },
+    {
+      "country": "HUN",
+      "path": "catalog/records/HUN.jsonl",
+      "count": 2148,
+      "bytes": 3729963
+    },
+    {
+      "country": "IDN",
+      "path": "catalog/records/IDN.jsonl",
+      "count": 2304,
+      "bytes": 3990353
+    },
+    {
+      "country": "IND",
+      "path": "catalog/records/IND.jsonl",
+      "count": 2315,
+      "bytes": 4064397
+    },
+    {
+      "country": "IRL",
+      "path": "catalog/records/IRL.jsonl",
+      "count": 2064,
+      "bytes": 3590204
+    },
+    {
+      "country": "ISR",
+      "path": "catalog/records/ISR.jsonl",
+      "count": 2190,
+      "bytes": 3836482
+    },
+    {
+      "country": "ITA",
+      "path": "catalog/records/ITA.jsonl",
+      "count": 2226,
+      "bytes": 3857615
+    },
+    {
+      "country": "JPN",
+      "path": "catalog/records/JPN.jsonl",
+      "count": 2214,
+      "bytes": 3828895
+    },
+    {
+      "country": "KOR",
+      "path": "catalog/records/KOR.jsonl",
+      "count": 2124,
+      "bytes": 3733402
+    },
+    {
+      "country": "KWT",
+      "path": "catalog/records/KWT.jsonl",
+      "count": 1836,
+      "bytes": 3220417
+    },
+    {
+      "country": "LUX",
+      "path": "catalog/records/LUX.jsonl",
+      "count": 1644,
+      "bytes": 2873503
+    },
+    {
+      "country": "MEX",
+      "path": "catalog/records/MEX.jsonl",
+      "count": 2346,
+      "bytes": 4350326
+    },
+    {
+      "country": "MYS",
+      "path": "catalog/records/MYS.jsonl",
+      "count": 2256,
+      "bytes": 3914858
+    },
+    {
+      "country": "NGA",
+      "path": "catalog/records/NGA.jsonl",
+      "count": 2244,
+      "bytes": 3922180
+    },
+    {
+      "country": "NLD",
+      "path": "catalog/records/NLD.jsonl",
+      "count": 2034,
+      "bytes": 3558298
+    },
+    {
+      "country": "NOR",
+      "path": "catalog/records/NOR.jsonl",
+      "count": 2070,
+      "bytes": 3640686
+    },
+    {
+      "country": "NZL",
+      "path": "catalog/records/NZL.jsonl",
+      "count": 1992,
+      "bytes": 3467009
+    },
+    {
+      "country": "OMN",
+      "path": "catalog/records/OMN.jsonl",
+      "count": 2016,
+      "bytes": 3517814
+    },
+    {
+      "country": "PH",
+      "path": "catalog/records/PH.jsonl",
+      "count": 1,
+      "bytes": 1683
+    },
+    {
+      "country": "PHL",
+      "path": "catalog/records/PHL.jsonl",
+      "count": 2159,
+      "bytes": 3764279
+    },
+    {
+      "country": "POL",
+      "path": "catalog/records/POL.jsonl",
+      "count": 2244,
+      "bytes": 3912114
+    },
+    {
+      "country": "PRT",
+      "path": "catalog/records/PRT.jsonl",
+      "count": 2124,
+      "bytes": 3695241
+    },
+    {
+      "country": "QAT",
+      "path": "catalog/records/QAT.jsonl",
+      "count": 1686,
+      "bytes": 2960589
+    },
+    {
+      "country": "ROU",
+      "path": "catalog/records/ROU.jsonl",
+      "count": 2262,
+      "bytes": 3918111
+    },
+    {
+      "country": "SAU",
+      "path": "catalog/records/SAU.jsonl",
+      "count": 1980,
+      "bytes": 3486023
+    },
+    {
+      "country": "SGP",
+      "path": "catalog/records/SGP.jsonl",
+      "count": 1758,
+      "bytes": 3066431
+    },
+    {
+      "country": "SVK",
+      "path": "catalog/records/SVK.jsonl",
+      "count": 2178,
+      "bytes": 3771977
+    },
+    {
+      "country": "SVN",
+      "path": "catalog/records/SVN.jsonl",
+      "count": 2166,
+      "bytes": 3759533
+    },
+    {
+      "country": "SWE",
+      "path": "catalog/records/SWE.jsonl",
+      "count": 2088,
+      "bytes": 3627611
+    },
+    {
+      "country": "THA",
+      "path": "catalog/records/THA.jsonl",
+      "count": 2238,
+      "bytes": 3886837
+    },
+    {
+      "country": "TUR",
+      "path": "catalog/records/TUR.jsonl",
+      "count": 2322,
+      "bytes": 4034859
+    },
+    {
+      "country": "USA",
+      "path": "catalog/records/USA.jsonl",
+      "count": 2370,
+      "bytes": 4158302
+    },
+    {
+      "country": "VNM",
+      "path": "catalog/records/VNM.jsonl",
+      "count": 2304,
+      "bytes": 3996386
+    },
+    {
+      "country": "ZAF",
+      "path": "catalog/records/ZAF.jsonl",
+      "count": 2364,
+      "bytes": 4089281
+    }
+  ],
+  "paths": {
+    "catalog_index": "catalog/README.md",
+    "records": "catalog/records/",
+    "industries": "catalog/industries/",
+    "countries": "catalog/countries/"
+  }
+}
